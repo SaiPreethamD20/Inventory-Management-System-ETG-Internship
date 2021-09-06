@@ -1,9 +1,9 @@
 # Inventory-Management-System-ETG-INTERNSHIP
-This repositary is having all the codes used in AI/ML Skill India Scholarship Assignment on Inventory Management System.
+This repositary is having all the codes used in AI/ML Skill India Internship Assignment on Inventory Management System.
 
 ###About the Repositary ?
 
-This repositary is made using JSON,NoSQL databases,File Handling.
+This repositary is made by using JSON,NoSQL databases,File Handling.
 
 ##Files
 1.Products.json
